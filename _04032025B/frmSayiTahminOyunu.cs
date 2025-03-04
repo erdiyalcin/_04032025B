@@ -67,7 +67,7 @@ namespace _04032025B
             btnBaslat.Visible = false;
             btnTahmin.Enabled = true;
             txtTahmin.Text = "";
-            txtTahmin.Focus();
+            txtTahmin.Focus(); // textbox odaklanıyor
         }
 
 
